@@ -59,6 +59,6 @@ def createStory():
         get_word('noun', local_dict)
 )
 
-story1 = createStory()
+story = createStory()
 print("STORY: " + story)
 
